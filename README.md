@@ -18,8 +18,7 @@ In this lecture series, you'll learn the fundamentals of **Retrieval-Augmented G
 This project uses the following tools and frameworks to help students understand and implement RAG:
 - **Python**: For building the backend and implementing core logic
 - **LangChain**: For connecting retrieval and generation components
-- **FAISS / ChromaDB**: Vector databases for efficient search and retrieval
-- **Streamlit**: For creating interactive front-end demos
+- **ChromaDB**: Vector databases for efficient search and retrieval
 - **Jupyter Notebooks**: For hands-on, step-by-step coding exercises
 
 ## **🔧 How to Get Started**
@@ -27,13 +26,7 @@ This project uses the following tools and frameworks to help students understand
    ```bash
    git clone https://github.com/your-username/rag-lecture-series.git
    ```
-
-2. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Open the Jupyter Notebooks and start learning:
+2. Open the Jupyter Notebooks and start learning:
    ```bash
    jupyter notebook
    ```
@@ -58,12 +51,3 @@ Each lecture is contained in a Jupyter Notebook and includes:
 - [FAISS Documentation](https://github.com/facebookresearch/faiss)
 - [ChromaDB Documentation](https://www.trychroma.com/)
 
-## **📝 Contributing**
-Contributions are welcome! If you find any issues, bugs, or want to enhance the project, feel free to open a pull request or file an issue.
-
-## **📄 License**
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Happy learning, and enjoy building your RAG systems! 🚀
